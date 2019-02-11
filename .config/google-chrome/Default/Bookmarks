@@ -1,0 +1,41 @@
+{
+   "checksum": "aa01f76b4c19cf0ffecef3b6fc53f615",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13193001818728515",
+            "id": "5",
+            "meta_info": {
+               "last_visited_desktop": "13193001818764960"
+            },
+            "name": "Settings",
+            "sync_transaction_version": "5",
+            "type": "url",
+            "url": "chrome://settings/appearance"
+         } ],
+         "date_added": "13192801597504719",
+         "date_modified": "13193001818728515",
+         "id": "1",
+         "name": "Bookmarks bar",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13192801597504755",
+         "date_modified": "0",
+         "id": "2",
+         "name": "Other bookmarks",
+         "type": "folder"
+      },
+      "sync_transaction_version": "5",
+      "synced": {
+         "children": [  ],
+         "date_added": "13192801597504759",
+         "date_modified": "0",
+         "id": "3",
+         "name": "Mobile bookmarks",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}

@@ -1,0 +1,6 @@
+2019/02/10-10:37:29.625 9f6 Reusing MANIFEST leveldb/MANIFEST-000001
+2019/02/10-10:37:29.684 9f6 Recovering log #149
+2019/02/10-10:37:29.869 9f6 Reusing old log leveldb/000149.log 
+2019/02/10-10:43:37.946 9fa Level-0 table #153: started
+2019/02/10-10:43:37.996 9fa Level-0 table #153: 16842 bytes OK
+2019/02/10-10:43:38.030 9fa Delete type=0 #149

@@ -1,0 +1,51 @@
+[cinnamon-settings-daemon-smartcard] Failed to start: no suitable smartcard driver could be found
+[cinnamon-settings-daemon-smartcard] Failed to start: no suitable smartcard driver could be found
+Cjs-Message: JS LOG: About to start Cinnamon
+St-Message: cogl npot texture sizes SUPPORTED
+Cjs-Message: JS LOG: Cinnamon started at Sun Feb 10 2019 10:36:50 GMT+0300 (EAT)
+** Message: nemo-desktop: session is cinnamon, establishing proxy
+Cjs-Message: JS LOG: network applet: Cannot find connection for active (or connection cannot be read)
+
+(cinnamon:2034): St-WARNING **: Ignoring length property that isn't a number at line 1526, col 13
+openGL version 4.5 detected (GL3 Cogl Driver)
+MetaSyncRing disabled: couldn't find required GL extensions, or the minimum safe openGL version was not met
+failed to create drawable
+Cjs-Message: JS LOG: Invalid network device type, is 14
+Cjs-Message: JS LOG: network applet: Found connection for active
+Nemo-Share-Message: Called "net usershare info" but it failed: 'net usershare' returned error 255: mkdir failed on directory /var/run/samba/msg.lock: Permission denied
+net usershare: cannot open usershare directory /var/lib/samba/usershares. Error No such file or directory
+Please ask your system administrator to enable user sharing.
+
+
+(cinnamon:2034): St-WARNING **: Ignoring length property that isn't a number at line 1526, col 13
+
+(cinnamon:2034): St-WARNING **: Ignoring length property that isn't a number at line 1526, col 13
+mintUpdate: no process found
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+[2333:2333:0210/103719.111939:ERROR:sandbox_linux.cc(364)] InitializeSandbox() called with multiple threads in process gpu-process.
+[2246:2246:0210/103726.186821:ERROR:x11_input_method_context_impl_gtk.cc(144)] Not implemented reached in virtual void libgtkui::X11InputMethodContextImplGtk::SetSurroundingText(const base::string16 &, const gfx::Range &)
+[2246:2246:0210/103732.245627:ERROR:desktop_window_tree_host_x11.cc(1946)] Not implemented reached in void views::DesktopWindowTreeHostX11::MapWindow(ui::WindowShowState)
+/usr/lib/python3/dist-packages/blueman/plugins/applet/AppIndicator.py:8: PyGIWarning: AppIndicator3 was imported without specifying a version first. Use gi.require_version('AppIndicator3', '0.1') before import to ensure that the right version gets loaded.
+  from gi.repository import AppIndicator3 as girAppIndicator
+ERROR:dbus.proxies:Introspect error on org.bluez:/org/bluez: dbus.exceptions.DBusException: org.freedesktop.DBus.Error.TimedOut: Failed to activate service 'org.bluez': timed out
+ERROR:dbus.proxies:Introspect error on org.bluez:/: dbus.exceptions.DBusException: org.freedesktop.DBus.Error.TimedOut: Failed to activate service 'org.bluez': timed out
+ERROR:dbus.proxies:Introspect error on org.bluez:/: dbus.exceptions.DBusException: org.freedesktop.DBus.Error.TimedOut: Failed to activate service 'org.bluez': timed out
+bash: cannot set terminal process group (-1): Inappropriate ioctl for device
+bash: no job control in this shell
+Cinnamon warning: Buggy client sent a _NET_ACTIVE_WINDOW message with a timestamp of 0 for 0x580002c (table form)
+Gtk-Message: GtkDialog mapped without a transient parent. This is discouraged.
+Cinnamon warning: Buggy client sent a _NET_ACTIVE_WINDOW message with a timestamp of 0 for 0x5800030 (projects -)
+Gtk-Message: GtkDialog mapped without a transient parent. This is discouraged.
+Cinnamon warning: Buggy client sent a _NET_ACTIVE_WINDOW message with a timestamp of 0 for 0x5800030 (Untitled-1)
+Gtk-Message: GtkDialog mapped without a transient parent. This is discouraged.
+Cinnamon warning: Buggy client sent a _NET_ACTIVE_WINDOW message with a timestamp of 0 for 0x5800030 (table.html)
+Gtk-Message: GtkDialog mapped without a transient parent. This is discouraged.
+[2333:2393:0210/115816.787790:ERROR:latency_info.cc(144)] Surface::TakeLatencyInfoFromFrame, LatencyInfo vector size 102 is too big.
+[2333:2393:0210/115817.642661:ERROR:latency_info.cc(144)] Surface::TakeLatencyInfoFromFrame, LatencyInfo vector size 102 is too big.
+[2333:2393:0210/115818.489167:ERROR:latency_info.cc(144)] Surface::TakeLatencyInfoFromFrame, LatencyInfo vector size 102 is too big.
+cinnamon-session[1706]: WARNING: t+20427.52567s: Playing logout sound '/usr/share/mint-artwork-cinnamon/sounds/logout.ogg'
+cinnamon-session[1706]: WARNING: t+20427.68272s: Finished playing logout sound
+cinnamon-session[1706]: WARNING: t+20427.68290s: Resuming logout sequence...
+cinnamon-session[1706]: GLib-GIO-CRITICAL: t+20428.65372s: g_dbus_connection_call_sync_internal: assertion 'G_IS_DBUS_CONNECTION (connection)' failed
+cinnamon-session[1706]: WARNING: t+20428.65592s: Requesting system shutdown...
+cinnamon-session[1706]: WARNING: t+20428.65707s: Attempting to shutdown using systemd...

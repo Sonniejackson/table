@@ -1,0 +1,9 @@
+2019/02/10-10:37:34.038 9f9 Reusing MANIFEST /home/leah/.config/google-chrome/Default/Session Storage/MANIFEST-000001
+2019/02/10-10:37:34.039 9f9 Recovering log #104
+2019/02/10-10:37:34.076 9f9 Reusing old log /home/leah/.config/google-chrome/Default/Session Storage/000104.log 
+2019/02/10-11:23:22.892 1ea4 Compacting 1@0 + 1@1 files
+2019/02/10-11:23:22.976 1ea4 Generated table #107@0: 1882 keys, 46644 bytes
+2019/02/10-11:23:22.976 1ea4 Compacted 1@0 + 1@1 files => 46644 bytes
+2019/02/10-11:23:23.010 1ea4 compacted to: files[ 0 1 1 0 0 0 0 ]
+2019/02/10-11:23:23.010 1ea4 Delete type=2 #105
+2019/02/10-11:23:23.010 1ea4 Delete type=2 #102

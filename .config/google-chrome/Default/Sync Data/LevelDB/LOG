@@ -1,0 +1,6 @@
+2019/02/11-09:35:31.967 adf Reusing MANIFEST /home/leah/.config/google-chrome/Default/Sync Data/LevelDB/MANIFEST-000001
+2019/02/11-09:35:31.968 adf Recovering log #33
+2019/02/11-09:35:33.352 adf Reusing old log /home/leah/.config/google-chrome/Default/Sync Data/LevelDB/000033.log 
+2019/02/11-10:08:43.324 f25 Level-0 table #37: started
+2019/02/11-10:08:43.404 f25 Level-0 table #37: 85649 bytes OK
+2019/02/11-10:08:43.461 f25 Delete type=0 #33

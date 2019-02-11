@@ -1,0 +1,55 @@
+{
+    "telemetry.machineId": "ff2b5277698655ef563659fb4a172110546b5107ef38a8080be44c421f4c0676",
+    "theme": "vs-dark",
+    "themeBackground": "#1e1e1e",
+    "pickerWorkingDir": "/home/leah/Desktop/table.html",
+    "openedPathsList": {
+        "workspaces2": [
+            "file:///home/leah/Desktop/projects/html",
+            "file:///home/leah/Desktop/projects",
+            "file:///home/leah/Desktop/table%20forms.html",
+            "file:///home/leah/Desktop/table.html",
+            "file:///home/leah/Projects/beggining-1",
+            {
+                "id": "d8cce5f11cd570094a00fa23e1a50ee8",
+                "configPath": "/home/leah/Desktop/feb7.code-workspace"
+            },
+            "file:///home/leah/Projects/beggining",
+            "file:///home/leah/Projects/intro-to-web-dev",
+            "file:///home/leah/Desktop/style.css",
+            "file:///home/leah/Desktop/1style.css",
+            "file:///home/leah/Desktop",
+            "file:///home/leah/Desktop/index.html",
+            {
+                "id": "b60545a6e17f9bf703e0ec8b54d7caf7",
+                "configPath": "/home/leah/mimi.code-workspace"
+            },
+            "file:///home/leah/Desktop/mso"
+        ],
+        "files2": [
+            "file:///home/leah/Desktop/table.html/table.html",
+            "file:///home/leah/Desktop/projects/html/hello%20world.php",
+            "file:///home/leah/Desktop/index2.html"
+        ]
+    },
+    "windowsState": {
+        "openedWindows": [],
+        "lastActiveWindow": {
+            "folderUri": {
+                "$mid": 1,
+                "fsPath": "/home/leah/Desktop/projects/html",
+                "external": "file:///home/leah/Desktop/projects/html",
+                "path": "/home/leah/Desktop/projects/html",
+                "scheme": "file"
+            },
+            "backupPath": "/home/leah/.config/Code/Backups/97f8c91cf45e2bfb0e09265a65ff39c9",
+            "uiState": {
+                "mode": 1,
+                "x": 201,
+                "y": 0,
+                "width": 1024,
+                "height": 741
+            }
+        }
+    }
+}
